@@ -10,7 +10,7 @@
 
 이러한 단점을 보완하기 위해 새로운 기능들을 추가한 신개념 자전거 주행 플랫폼 RideUs를 개발했습니다.
 
-![https://github.com/wornjs135/rideus/raw/master/README_IMAGE/Untitled.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fe0b4bbe-599e-47b8-9fdc-8ab400cf0e45/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221124T003031Z&X-Amz-Expires=86400&X-Amz-Signature=143d056478c8779afedc52499f4672c58f2f188fcc988c7e6fd26338289f8dea&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+<img src="README_IMAGE/Untitled.png" title="main" width="380" height="620">
 
 # 대표 기능
 
@@ -18,9 +18,8 @@
 
 자유롭게 자전거 주행 후, 주행한 코스 기록을 다른 사용자들에게 공유할 수 있는 기능
 
-![https://github.com/wornjs135/rideus/raw/master/README_IMAGE/Untitled%201.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c1ac6c90-363a-448d-8685-9a332ae198ad/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221124T003106Z&X-Amz-Expires=86400&X-Amz-Signature=7f0c8e9d17b0ba863f5554c5f05762b1aa656e8f0efe25d9298829774381d418&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
-
-![https://github.com/wornjs135/rideus/raw/master/README_IMAGE/Untitled%202.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8b45eb20-eb6d-4cf5-b089-1933e21a3b03/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221124T002846Z&X-Amz-Expires=86400&X-Amz-Signature=ec67a8dc38af260f16f8a324e6db101e4b1b142bb1a09c415b3a0e21c396d14b&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+<img src="README_IMAGE/Untitled%201.png" width="380" height="640">
+<img src="README_IMAGE/Untitled%202.png" width="380" height="640">
 
 ### 그룹 주행
 
@@ -32,9 +31,8 @@
 
 주행 후, 해당 코스에 대한 리뷰 작성 가능
 
-![https://github.com/wornjs135/rideus/raw/master/README_IMAGE/Untitled%203.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0f935a53-2991-469a-8013-d98f6996eb71/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221124T003153Z&X-Amz-Expires=86400&X-Amz-Signature=5a921c7b7c783c9c81a2cd22e0709f6cebb8baf7a68520d5cbf9cfc898d71256&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
-
-![https://github.com/wornjs135/rideus/raw/master/README_IMAGE/Untitled%204.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/169ebee1-6764-43e9-9935-43bec1fb9e59/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221124T003204Z&X-Amz-Expires=86400&X-Amz-Signature=f5718875ddaaa051db76345ba7acbf5921cc96e7aca6e5ff3ed0f3ecae5845fe&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+<img src="README_IMAGE/Untitled%203.png" width="380" height="640">
+<img src="README_IMAGE/Untitled%204.png" width="380" height="640">
 
 ### 추천 코스 조회 및 주변 정보 조회
 
@@ -42,13 +40,12 @@ RideUs만의 알고리즘을 통해 코스들을 추천
 
 코스 주변의 음식점, 화장실, 편의점, 자전거 수리점 등 7가지 종류의 주변 정보를 확인할 수 있음
 
-![https://github.com/wornjs135/rideus/raw/master/README_IMAGE/Untitled%205.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/831840af-e5d0-4ed9-996c-51537ad0e62f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221124T003216Z&X-Amz-Expires=86400&X-Amz-Signature=11329450a086bb16d2077d60c46ed0321a79aef97ee5f9940a1d0e9d400fdcd6&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
-
-![https://github.com/wornjs135/rideus/raw/master/README_IMAGE/Untitled%206.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f95fc85b-63c6-4dbd-972f-7870743d5b1a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221124T003225Z&X-Amz-Expires=86400&X-Amz-Signature=0993fc783a445128028bbd063f5476658ea14707fcd048f053a2242e83f24faf&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+<img src="README_IMAGE/Untitled%205.png" width="380" height="640">
+<img src="README_IMAGE/Untitled%206.png" width="380" height="640">
 
 # 아키텍쳐 설계도
 
-![https://github.com/wornjs135/rideus/raw/master/README_IMAGE/Untitled%207.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b3790cda-5e68-4822-bcac-27df9150b5eb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221124T003238Z&X-Amz-Expires=86400&X-Amz-Signature=858bc244b163d941f734fd2484378b564f90b96adaec57accc76900f3f8159e3&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](README_IMAGE/Untitled%207.png)
 
 ## 배포
 

@@ -10,7 +10,7 @@
 
 이러한 단점을 보완하기 위해 새로운 기능들을 추가한 신개념 자전거 주행 플랫폼 RideUs를 개발했습니다.
 
-<img src="README_IMAGE/Untitled.png" title="main" width="380" height="620">
+<img src="https://github.com/wornjs135/rideus/raw/master/README_IMAGE/Untitled.png" title="main" width="380" height="620">
 
 # 대표 기능
 
@@ -18,8 +18,8 @@
 
 자유롭게 자전거 주행 후, 주행한 코스 기록을 다른 사용자들에게 공유할 수 있는 기능
 
-<img src="README_IMAGE/Untitled%201.png" width="380" height="640">
-<img src="README_IMAGE/Untitled%202.png" width="380" height="640">
+<img src="https://github.com/wornjs135/rideus/raw/master/README_IMAGE/Untitled%201.png" width="380" height="640">
+<img src="https://github.com/wornjs135/rideus/raw/master/README_IMAGE/Untitled%202.png" width="380" height="640">
 
 ### 그룹 주행
 
@@ -31,8 +31,8 @@
 
 주행 후, 해당 코스에 대한 리뷰 작성 가능
 
-<img src="README_IMAGE/Untitled%203.png" width="380" height="640">
-<img src="README_IMAGE/Untitled%204.png" width="380" height="640">
+<img src="https://github.com/wornjs135/rideus/raw/master/README_IMAGE/Untitled%203.png" width="380" height="640">
+<img src="https://github.com/wornjs135/rideus/raw/master/README_IMAGE/Untitled%204.png" width="380" height="640">
 
 ### 추천 코스 조회 및 주변 정보 조회
 
@@ -40,12 +40,12 @@ RideUs만의 알고리즘을 통해 코스들을 추천
 
 코스 주변의 음식점, 화장실, 편의점, 자전거 수리점 등 7가지 종류의 주변 정보를 확인할 수 있음
 
-<img src="README_IMAGE/Untitled%205.png" width="380" height="640">
-<img src="README_IMAGE/Untitled%206.png" width="380" height="640">
+<img src="https://github.com/wornjs135/rideus/raw/master/README_IMAGE/Untitled%205.png" width="380" height="640">
+<img src="https://github.com/wornjs135/rideus/raw/master/README_IMAGE/Untitled%206.png" width="380" height="640">
 
-# 아키텍쳐 설계도
+## 서비스 아키텍쳐
 
-![Untitled](README_IMAGE/Untitled%207.png)
+![Untitled](https://github.com/wornjs135/rideus/raw/master/README_IMAGE/Untitled%207.png)
 
 ## 배포
 

@@ -71,12 +71,14 @@ dependencies {
 
     // mongodb
     implementation 'org.springframework.boot:spring-boot-starter-data-mongodb'
-    
+
     // jsop
     implementation 'org.jsoup:jsoup:1.15.3'
 
     // https://mvnrepository.com/artifact/com.jcraft/jsch
     implementation group: 'com.jcraft', name: 'jsch', version: '0.1.55'
+    // mysql point
+    implementation group: 'org.hibernate', name: 'hibernate-spatial', version: '5.6.12.Final'
 
 }
 

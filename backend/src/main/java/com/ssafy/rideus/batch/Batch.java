@@ -23,7 +23,7 @@ public class Batch {
 
     private final MemberRepository memberRepository;
     private final CourseRepository courseRepository;
-    private final HadoopService hadoopService;
+//    private final HadoopService hadoopService;
 
     private static String host = "http://localhost:8080/api";
     private static String totalTime = "/total/time";

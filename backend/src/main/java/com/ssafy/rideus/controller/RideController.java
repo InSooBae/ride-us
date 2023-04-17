@@ -75,9 +75,10 @@ public class RideController {
 
     // 주행 종료
     @PostMapping("/finish/{riddingType}")
-    public ResponseEntity finishRidding(@ApiIgnore @AuthenticationPrincipal CustomUserDetails member, @PathVariable RiddingType riddingType,
+    public ResponseEntity<?> finishRidding(@ApiIgnore @AuthenticationPrincipal CustomUserDetails member, @PathVariable RiddingType riddingType,
                                         @RequestBody FinishRiddingRequest request) {
-        return ResponseEntity.status(HttpStatus.CREATED).body(rideService.finishRidding(member.getId(), riddingType, request));
+        rideService.finishRidding(member.getId(), riddingType, request);
+        return ResponseEntity.status(HttpStatus.CREATED).build();
     }
 
     // 중간 주행 좌표 리스트들 저장

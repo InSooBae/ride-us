@@ -47,7 +47,7 @@ public class RecordInfoResponse {
         recordInfoResponse.recordIsFinished = record.getRecordIsFinished();
         recordInfoResponse.recordIsMine = record.getRecordIsMine();
         recordInfoResponse.courseId =record.getCourse().getId() == null ? null : record.getCourse().getId();
-        recordInfoResponse.isCourse =record.getCourse().getId() == null ? false : true;
+        recordInfoResponse.isCourse = record.getCourse().getId() != null;
         recordInfoResponse.rideRoomId =record.getRideRoom().getId();
         recordInfoResponse.participants =mongoRecord.getParticipants();
         recordInfoResponse.coordinates =mongoRecord.getCoordinates();

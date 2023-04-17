@@ -23,7 +23,7 @@ public class RecordWithSameGroupRes {
 
     private String courseName;
 
-    private List<RecordForStatisticRes> records = new ArrayList<>();
+    private final List<RecordForStatisticRes> records = new ArrayList<>();
 
     public void myRecord(Long recordTimeMinute, Double recordSpeedBest, Double recordSpeedAvg, String courseName) {
         this.recordTimeMinute = recordTimeMinute;
